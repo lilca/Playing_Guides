@@ -63,4 +63,6 @@
 ||1260|1155|1050|945|840|735|爆発ダメージ、コンデンサーで +20%|
 
 ## 参考文献
+(Basics
+Difficulty adjustment)[https://steamcommunity.com/sharedfiles/filedetails/?id=1759950592]
 (RE2 (2019) damage stats)[https://onedrive.live.com/view.aspx?resid=167F09E277D95E21%21148608&authkey=!AH_HjD7WsktWsso]
