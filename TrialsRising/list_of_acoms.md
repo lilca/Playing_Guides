@@ -1,8 +1,8 @@
 |取得|数| スポンサー            | 場所                               | 契約                | 要件                                                                 |
 |-|-|-----------------------|------------------------------------|---------------------|----------------------------------------------------------------------|
-|済|5| Ubisoft Club          | Ubisoft Club                       | -                   | Ubisoft Clubでウェルカムギフトを受け取る                             |
-|-|35| コレクティブル       | キャリアトラック                   | -                   | キャリアトラックで62匹のリスをすべて見つける                         |
-|-|25| コレクティブル       | Route 66 DLC                       | -                   | Route 66 DLCトラックで14匹のリスをすべて見つける                     |
+|済|5| Ubisoft Club          | Ubisoft Club                       | -                   | Ubisoft Clubでウェルカムギフトを受け取る<br>Ubisoftでログイン       |
+|-|35| 収集系       | キャリアトラック                   | -                   | キャリアトラックで62匹のリスをすべて見つける                         |
+|-|25| 収集系       | Route 66 DLC                       | -                   | Route 66 DLCトラックで14匹のリスをすべて見つける                     |
 |-|5| Anba                  | Balloons over Bagan                | Lighter than Helium | Thousand-Cloud VillageとShip It!でAnbaのHelium契約を完了する         |
 |-|5| Anba                  | Spirit of the Mountain             | Spiritbuster        | Beach BumとChinese CliffsでAnbaのDonkey契約を完了する                |
 |-|5| Anba                  | Ruined Run                         | Authentic Ride      | Siberian ExpressとVietnam VaultsでAnbaのHelium契約を完了する         |
@@ -21,5 +21,5 @@
 |-|10| RedBull               | Cadillac Rancher (Route 66 DLC)    | Hit the Gas         | RedBullのTexas Turmoilスタジアム契約の3つを完了し、次にMine the Big Gap, Pit StopとRocky MountaineerでRedBullの契約を完了する |
 |-|5| Ubisoft               | Demolition Day (Route 66 DLC)      | New Dawn            | -                                                                    |
 |-|5| Ubisoft               | The Petrified Forest (Route 66 DLC)| Dark Zone           | -                                                                    |
-|-|5| University of Trials  | Consecutive Bunny Hops             | More Bunny Hops 3   | Consecutive Bunny Hopsチュートリアルで前の2つの契約を完了する       |
-|-|5| University of Trials  | Time Trial                         | Time Trial          | すべてのチュートリアルで少なくともGrade Dを取得する                 |
+|-|5| トライアルズ大学  | Consecutive Bunny Hops             | More Bunny Hops 3   | Consecutive Bunny Hopsチュートリアルで前の2つの契約を完了する       |
+|-|5| トライアルズ大学  | Time Trial                         | Time Trial          | すべてのチュートリアルで少なくともGrade Dを取得する                 |
