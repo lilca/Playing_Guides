@@ -5,7 +5,7 @@
 |-|25| 収集系       | Route 66 DLC                       | -                   | Route 66 DLCトラックで14匹のリスをすべて見つける                     |
 |済|5| Anba                  | Balloons over Bagan                | Lighter than Helium | Thousand-Cloud VillageとShip It!でAnbaのHelium契約を完了する         |
 |-|5| Anba                  | Spirit of the Mountain             | Spiritbuster        | Beach BumとChinese CliffsでAnbaのDonkey契約を完了する                |
-|-|5| Anba                  | Ruined Run                         | Authentic Ride      | Siberian ExpressとVietnam VaultsでAnbaのHelium契約を完了する         |
+|済|5| Anba                  | Ruined Run                         | Authentic Ride      | Siberian ExpressとVietnam VaultsでAnbaのHelium契約を完了する         |
 |-|5| Anba                  | Angkor What?                       | Angkor Who?         | A Pretty Good WallとFirebase FaceplantでAnbaのDonkey契約を完了する   |
 |-|5| Anba                  | Frozen Fjord                       | Snowy Ride          | Bucharest BreakdownとGreek GrapesでAnbaのDonkey契約を完了する        |
 |-|5| Anba                  | Finnish Flash                      | Hopeless Endeavour  | I Fell TowerとUK UpでAnbaのDonkey契約を完了する                      |
